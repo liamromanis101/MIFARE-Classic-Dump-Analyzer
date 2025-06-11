@@ -50,3 +50,5 @@ Sector 02:
 	•	Manufacturer information (from UID) is only reliably available for NXP (04)
 	•	Access control bit decoding is best-effort and based on known MIFARE specs
 
+ There will likely be many updates to this repo so please check back :)
+
