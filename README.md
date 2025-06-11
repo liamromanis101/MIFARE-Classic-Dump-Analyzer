@@ -44,6 +44,26 @@ Sector 02:
   Key B: Unknown
   Access Bits: Unable to read (no known key)
 ```
+## Recognized Manufacturers
+The only manufacturers currently recognized are listed here. If you manage to map missing codes to manufacturers let me know and I will update the script. 
+
+```bash
+        0x00: "NXP Semiconductors",
+        0x01: "Motorola",
+        0x02: "STMicroelectronics",
+        0x03: "Hitachi",
+        0x04: "Texas Instruments",
+        0x07: "Infineon",
+        0x08: "Matsushita",
+        0x09: "NEC",
+        0x0A: "Oki",
+        0x0B: "Toshiba",
+        0x0C: "Mitsubishi",
+        0x0D: "Samsung",
+        0x0E: "Hyundai",
+        0x0F: "Sony",
+        0x10: "Fujitsu",
+```
 
 ## Notes
 	•	Only supports MIFARE Classic dumps in Flipper Zero format
